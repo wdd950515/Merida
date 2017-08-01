@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-module
+  type="WEB"
+  name="meridr"
+  id="myeclipse.1495431913900"
+  context-root="/meridr"
+  j2ee-spec="5.0"
+  archive="meridr.war">
+  <attributes>
+    <attribute name="webrootdir" value="WebRoot" />
+  </attributes>
+</project-module>
+
